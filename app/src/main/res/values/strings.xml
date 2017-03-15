@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AttenHome</string>
+    <string name="content_value">[content]</string>
+    <string name="power_data">[powerData]</string>
+    <string name="temperature">[temperature]</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="powered">Power</string>
+    <string name="power_consumption">Power consumption</string>
+    <string name="effect">Effect</string>
+    <string-array name="effect_strings">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+</resources>
